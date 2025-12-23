@@ -1,3 +1,5 @@
+<h1 align="center">Hi, I'm Shivanshu 👋</h1>
+
 #  About Me:
 🔭 Building full-stack web applications using MERN stack, including end to end projects.<br>👯 Open-source projects, web development, or beginner-friendly full-stack applications.<br>🤝 Improving system design basics, deployment (Render, Vercel, MongoDB Atlas), and writing cleaner backend code.<br>🌱 Advanced React, Node.js, MongoDB best practices, and basic cloud deployment concepts.<br>💬 MERN stack, React basics, backend APIs, MongoDB, or how to start full-stack projects as a student.<br>⚡ I often understand concepts better after breaking my own code and fixing it again.
 
