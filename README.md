@@ -32,13 +32,6 @@ const shivanshu = {
 };
 ```
 
-- 🔭 Currently building **AI-powered & full-stack MERN applications**
-- 🌱 Learning **Advanced React, System Design & Cloud Deployment**
-- 👯 Open to collaborate on **Open Source & MERN Stack projects**
-- 💬 Ask me about **MERN Stack, REST APIs, JWT Auth & MongoDB**
-- 📫 Reach me at **shivanshu17103@gmail.com**
-- ⚡ Fun fact: **I often understand concepts better after breaking my own code and fixing it again!**
-
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🛠️ **Tech Stack**
