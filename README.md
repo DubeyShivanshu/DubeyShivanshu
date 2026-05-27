@@ -94,10 +94,6 @@ const shivanshu = {
         <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💡 More Coming Soon...</h3>
-      <p align="center">Always building something new. Follow me to stay updated and consider starring ⭐ my repositories!</p>
-    </td>
   </tr>
 </table>
 
