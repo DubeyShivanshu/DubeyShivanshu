@@ -18,7 +18,7 @@
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <!-- ABOUT ME + CODING GIF SIDE BY SIDE -->
-<img align="right" alt="Coding" width="380" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaauWohrI8PIo6TCV59BZZNV-BHUSt13mgEYEAJVQHUVCK1pKJP0K0/coding-freak.gif" />
+<img align="right" alt="Coding" width="300" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaauWohrI8PIo6TCV59BZZNV-BHUSt13mgEYEAJVQHUVCK1pKJP0K0/coding-freak.gif" />
 
 ## 🧠 **About Me**
 
@@ -117,21 +117,8 @@ const shivanshu = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DubeyShivanshu&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
 </p>
 
-### Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DubeyShivanshu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DubeyShivanshu&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
-</p>
-
-![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-## 🏆 **GitHub Trophies**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DubeyShivanshu&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
 </p>
 
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
@@ -153,7 +140,7 @@ const shivanshu = {
   <a href="https://leetcode.com/u/im_shivanshuuu/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
-  <a href="https://instagram.com/im_shivanshuuu">
+  <a href="https://www.instagram.com/shivanshuuuuuu_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:shivanshu17103@gmail.com">
@@ -179,5 +166,3 @@ const shivanshu = {
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 </p>
-
-<h3 align="center">⭐ Star my repositories if you find them helpful! ⭐</h3>
