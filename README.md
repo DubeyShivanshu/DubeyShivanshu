@@ -113,7 +113,8 @@ const shivanshu = {
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DubeyShivanshu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DubeyShivanshu&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+</p>
   
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DubeyShivanshu&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
