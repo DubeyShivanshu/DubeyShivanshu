@@ -58,47 +58,6 @@ const shivanshu = {
 
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-## 🚀 **Featured Projects**
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏢 Gyandayini Publishing House</h3>
-      <p align="center">Full-stack order management system with role-based auth (User & Owner), a 3-stage tracking workflow (Pending → Payment → Completed), admin dashboard, and secure file handling.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 InterviewForge</h3>
-      <p align="center">AI-powered interview prep platform using Google Gemini — generates technical & behavioural questions, skill gap analysis, preparation plans, and downloadable PDF reports.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">✈️ WanderLust</h3>
-      <p align="center">Travel listing platform with secure JWT auth, full CRUD for property listings, Cloudinary media handling, MongoDB indexing for performance, and Maptiler map integration.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
 ## 📊 **GitHub Stats**
 
 <p align="center">
